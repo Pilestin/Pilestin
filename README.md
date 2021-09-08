@@ -1,7 +1,7 @@
   ----------------------------------------------------------------------
   ◽️ 👋 Hi, I’m @Yasin Ünal
 
-  ◽️ 👀 I’m interested in Python.
+  ◽️ 👀 I’m interested in Python and C.
 
   ◽️ 🌱 I’m currently learning Python , Java and Web Tech.
 
@@ -11,9 +11,9 @@
   
   🛠 Technology : 
   
+     - Python
      - C
      - Java
-     - Python
      - Ruby
   
   
