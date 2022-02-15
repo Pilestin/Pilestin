@@ -7,8 +7,8 @@
   
   ◽️ 📚 I am studying Computer Engineering at Ondokuz Mayıs University. 
   
-  ◽️ My Notion Research Blog : ![image](https://user-images.githubusercontent.com/56133248/154100978-5472e94c-80ba-4eed-9bfb-8218d5c3b4c1.png)  https://dawn-squash-710.notion.site/Makaleler-2a2a2615f2964cf584341a880aa94f41
-  
+  ◽️ My Notion Research Blog : ![image](https://user-images.githubusercontent.com/56133248/154103117-79d88cb6-2039-4b6e-b9ce-5fed13e13f8a.png)  https://dawn-squash-710.notion.site/Makaleler-2a2a2615f2964cf584341a880aa94f41
+
   ◽️ My Notion Lecture Notes : ![image](https://user-images.githubusercontent.com/56133248/154100978-5472e94c-80ba-4eed-9bfb-8218d5c3b4c1.png)  https://dawn-squash-710.notion.site/Ders-Notlar-793b45202f03441dae24a4795071d5f7
 
  
