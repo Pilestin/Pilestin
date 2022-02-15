@@ -13,15 +13,15 @@
 
 
   Technology : 
-   https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/269f2bcf-4608-410f-b950-291773ee9f2f/104.jpg?1640265842460
+![image](https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/269f2bcf-4608-410f-b950-291773ee9f2f/104.jpg?1640265842460)
     
-    Python ( Selenium )  ![image](https://user-images.githubusercontent.com/56133248/154110521-01618f0e-483a-4f3a-8e2b-a8ada64c8d7d.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png)
 
-    C    ![image](https://user-images.githubusercontent.com/56133248/154110618-bcfb292e-58ad-4547-9bc0-83d347680cbd.png)
+![image](https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png)
 
-    Java   ![image](https://user-images.githubusercontent.com/56133248/154110673-49214aa9-d26c-413e-a8af-c3f1f311ebcf.png)
+![image](http://veriakademi.com/images/java-ne-ise-yarar.jpg)
 
-    Ruby   ![image](https://user-images.githubusercontent.com/56133248/154110774-a25fc32d-fa7f-4944-bca9-055aaf09d7ad.png)
+![image](https://miro.medium.com/max/540/1*7e9D-oPWPIKBe2AQv862aA.png)
 
   
   
