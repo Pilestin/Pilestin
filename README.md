@@ -11,12 +11,8 @@
 
   ◽️ ![image](https://user-images.githubusercontent.com/56133248/154103197-e2390754-ca4e-4791-981b-1b27e4340e56.png) My Notion Lecture Notes :  https://dawn-squash-710.notion.site/Ders-Notlar-793b45202f03441dae24a4795071d5f7
 
- 
-  
-![image](https://user-images.githubusercontent.com/56133248/143773264-7933ce21-81b2-4057-bfb7-5bcc7be3691a.png)
 
-  
-  🛠 Technology : 
+  Technology : 
     Flutter ![image](https://user-images.githubusercontent.com/56133248/154110423-913d38a5-548e-456a-9fa2-495f94d1d3b0.png
     
     Python ( Selenium )  ![image](https://user-images.githubusercontent.com/56133248/154110521-01618f0e-483a-4f3a-8e2b-a8ada64c8d7d.png)
