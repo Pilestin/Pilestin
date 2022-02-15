@@ -13,7 +13,7 @@
 
 
   Technology : 
-    Flutter ![image](https://user-images.githubusercontent.com/56133248/154110423-913d38a5-548e-456a-9fa2-495f94d1d3b0.png
+    Flutter ![image](https://user-images.githubusercontent.com/56133248/154110423-913d38a5-548e-456a-9fa2-495f94d1d3b0.png)
     
     Python ( Selenium )  ![image](https://user-images.githubusercontent.com/56133248/154110521-01618f0e-483a-4f3a-8e2b-a8ada64c8d7d.png)
 
