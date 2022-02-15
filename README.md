@@ -3,7 +3,7 @@
   ◽️ 👀 I’m interested in Python and C.
   ◽️ 🌱 I’m currently learning Dart-Flutter, System Programming, Python and  Web Tech.
   ◽️ 📚 I am studying Computer Engineering at Ondokuz Mayıs University. 
-  ◽️ ![image](![image](https://user-images.githubusercontent.com/56133248/154095101-7c4d1a78-d1e3-4811-b975-ddd8cf529645.png))
+  ◽️ ![image](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)
 
 
   [GitHub Pages](https://dawn-squash-710.notion.site/Makaleler-2a2a2615f2964cf584341a880aa94f41).
