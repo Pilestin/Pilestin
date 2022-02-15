@@ -10,13 +10,18 @@
   ◽️ ![image](https://user-images.githubusercontent.com/56133248/154103197-e2390754-ca4e-4791-981b-1b27e4340e56.png) My Notion Research Blog :  https://dawn-squash-710.notion.site/Makaleler-2a2a2615f2964cf584341a880aa94f41
 
   ◽️ ![image](https://user-images.githubusercontent.com/56133248/154103197-e2390754-ca4e-4791-981b-1b27e4340e56.png) My Notion Lecture Notes :  https://dawn-squash-710.notion.site/Ders-Notlar-793b45202f03441dae24a4795071d5f7
+  
+  
 
-![flutter2](https://user-images.githubusercontent.com/56133248/154114540-f1f8db73-dfae-453c-8384-9757565e0bf5.png) ![py](https://user-images.githubusercontent.com/56133248/154114565-9a41632b-bead-4215-9480-09e017abfea5.png) 
+  
+![flutter2](https://user-images.githubusercontent.com/56133248/154115123-b3ff6ea0-c980-4890-bfd3-99596303811b.png)![python](https://user-images.githubusercontent.com/56133248/154115155-a537eb7e-e8eb-4757-888f-118352786cf9.png)
 
-![c](https://user-images.githubusercontent.com/56133248/154114610-0d301a6d-555c-40e0-9f4c-2a7b3c21b64e.jpg)![java-ne-ise-yarar](https://user-images.githubusercontent.com/56133248/154114618-f659bda9-ee16-4ec1-a2ab-603f593d4f6c.jpg)
 
 
-![1 7e9D-oPWPIKBe2AQv862aA](https://user-images.githubusercontent.com/56133248/154114705-5766b916-3830-4ee9-aa38-034fb8048f5d.png)
+![c](https://user-images.githubusercontent.com/56133248/154115171-7a06e237-2c64-48fd-a010-84a1386b8f2d.jpg)![java-ne-ise-yarar](https://user-images.githubusercontent.com/56133248/154115175-8086f4fb-e961-40d6-80e5-0d20e0d381ea.jpg)
+
+
+![ruby](https://user-images.githubusercontent.com/56133248/154115179-27356bab-6b9d-4fb8-9938-5f578272f928.png)
 
 
 
