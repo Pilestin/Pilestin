@@ -4,11 +4,7 @@
 - 🌱 I’m currently learning ***Flutter***, ***Python***, ***Web Technology***.
 - 📚 I am studying **Computer Engineering** at Ondokuz Mayıs University.
 
-![flutter2.png](https://user-images.githubusercontent.com/56133248/154117444-27197953-7749-4431-8d62-72b054c28b00.png)
-![python.png](https://user-images.githubusercontent.com/56133248/154117484-92af626e-3734-4509-a3d5-ce19015aa9c1.png)
-![c.jpg](https://user-images.githubusercontent.com/56133248/154117495-57f8ed49-79e5-4f54-af50-83ac0057a4c2.jpg)
-![java-ne-ise-yarar.jpg](https://user-images.githubusercontent.com/56133248/154117510-c985d41c-0781-4ded-b296-df59a6c585f2.jpg)
-![ruby.png](https://user-images.githubusercontent.com/56133248/154117491-78e736ff-6abd-4348-a966-dd188f527847.png)
+![flutter2.png](https://user-images.githubusercontent.com/56133248/154117444-27197953-7749-4431-8d62-72b054c28b00.png)![python.png](https://user-images.githubusercontent.com/56133248/154117484-92af626e-3734-4509-a3d5-ce19015aa9c1.png)![c.jpg](https://user-images.githubusercontent.com/56133248/154117495-57f8ed49-79e5-4f54-af50-83ac0057a4c2.jpg)![java-ne-ise-yarar.jpg](https://user-images.githubusercontent.com/56133248/154117510-c985d41c-0781-4ded-b296-df59a6c585f2.jpg)![ruby.png](https://user-images.githubusercontent.com/56133248/154117491-78e736ff-6abd-4348-a966-dd188f527847.png)
 
 
 
