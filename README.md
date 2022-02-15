@@ -19,12 +19,17 @@
   
   🛠 Technology : 
     
-     - Dart ( Flutter )
-     - Python ( Selenium ) 
-     - C
-     - 
-     - Java
-     - Ruby
+     - Flutter ![image](https://user-images.githubusercontent.com/56133248/154110423-913d38a5-548e-456a-9fa2-495f94d1d3b0.png)
+
+     - Python ( Selenium )  ![image](https://user-images.githubusercontent.com/56133248/154110521-01618f0e-483a-4f3a-8e2b-a8ada64c8d7d.png)
+
+     - C    ![image](https://user-images.githubusercontent.com/56133248/154110618-bcfb292e-58ad-4547-9bc0-83d347680cbd.png)
+
+     - Java   ![image](https://user-images.githubusercontent.com/56133248/154110673-49214aa9-d26c-413e-a8af-c3f1f311ebcf.png)
+
+     
+     - Ruby   ![image](https://user-images.githubusercontent.com/56133248/154110774-a25fc32d-fa7f-4944-bca9-055aaf09d7ad.png)
+
   
   
 <!---
