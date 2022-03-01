@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yasin Ünal                                                                           ![](https://komarev.com/ghpvc/?username=Pilestin)
+# 👋 Hi, I’m Yasin Ünal                                                                           
 
 ◽️ 👀 I’m interested in ***Python*** and ***AI***.
 
