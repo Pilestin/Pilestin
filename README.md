@@ -2,7 +2,7 @@
 
 ◽️ 👀 I’m interested in ***Python*** and ***AI***.
 
-◽️ 🌱 I’m currently learning ***Flutter***, ***Python***, ***Web Technology***.
+◽️ 🌱 I’m currently learning ***Data Science***, ***Python***, ***Web Technology***.
 
 ◽️ 📚 I am studying **Computer Engineering** at Ondokuz Mayıs University.
 
