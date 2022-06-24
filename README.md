@@ -16,7 +16,7 @@
 
 ## Technologies
 
-<p >
+<p align="justify" >
  <img src="https://user-images.githubusercontent.com/56133248/175562420-2efe5de0-b16b-41a8-9de4-a27d00543a9c.png" alt="vscode" style="width:100px;"/>
 <img src="https://user-images.githubusercontent.com/56133248/175566576-4ee3676b-9920-4171-a33a-0471d72b4e55.png" alt="eclipse" style="width:100px;"/>
 <img src="https://user-images.githubusercontent.com/56133248/175566226-b312f935-624c-44d6-bc65-4894da2c21ea.png" alt="git" style="width:100px;"/>
