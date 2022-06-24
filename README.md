@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Yasin Ünal                                                                           
 
-◽️ 👀 I’m interested in ***Python*** and ***AI***.
+◽️ 👀 I’m interested in ***Python*** , ***AI*** and ***Blokchain***.
 
-◽️ 🌱 I’m currently learning ***Data Science***, ***Python***, ***Web Technology***.
+◽️ 🌱 I’m currently learning ***Advance Python*** , ***Blokchain Technology*** and ***Data Science***  .
 
 ◽️ 📚 I am studying **Computer Engineering** at Ondokuz Mayıs University.
 
@@ -14,6 +14,7 @@
 
 ...
   
+![image](https://user-images.githubusercontent.com/56133248/175562255-65477142-b1d4-441a-bf26-2356c3308fd6.png)
 
 ---
 
