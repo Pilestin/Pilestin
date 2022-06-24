@@ -39,7 +39,7 @@
 
  </p>
 
-![Technologies](https://user-images.githubusercontent.com/56133248/154122260-08c0a25b-f83a-46d5-a508-839ced1eb1ae.png)
+<!-- ![Technologies](https://user-images.githubusercontent.com/56133248/154122260-08c0a25b-f83a-46d5-a508-839ced1eb1ae.png) -->
 
   
 <!---
