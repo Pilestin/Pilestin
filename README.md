@@ -14,7 +14,8 @@
 
 <!-- Sayaç :  ![](https://komarev.com/ghpvc/?username=Pilestin) -->
 
-...
+
+
 
 ## Technologies
 
