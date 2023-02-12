@@ -2,7 +2,7 @@
 
 ◽️ 👀 I’m interested in ***Python*** , ***AI*** and ***Blokchain***.
 
-◽️ 🌱 I’m currently learning ***Machine Learning , ***Advance Python*** and ***Blokchain Technology***  .
+◽️ 🌱 I’m currently learning ***Machine Learning*** , ***Advance Python*** and ***Blokchain Technology***  .
 
 ◽️ 📚 I am studying **Computer Engineering** at Ondokuz Mayıs University.
      
