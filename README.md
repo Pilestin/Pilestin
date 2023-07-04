@@ -2,9 +2,9 @@
 
 ◽️ 👀 I’m interested in ***AI*** , ***Data Science*** and ***Blokchain***.
 
-◽️ 🌱 I’m currently learning ***Machine Learning*** , ***Stock Price Prediction*** and ***Blokchain Technology***  .
+◽️ 🌱 I'm currently focusing on Machine Learning, Stock Price Prediction, and Blockchain Technology.
 
-◽️ 📚 I am studying **Computer Engineering** at Ondokuz Mayıs University.
+◽️ 📚 Computer Engineering graduate from Ondokuz Mayıs University.
      
 ◽️ 👽 If you want to read my projects : https://yasin-unal.super.site/
 
@@ -22,15 +22,16 @@
 
 <p align = "justify" >
  <img src="https://user-images.githubusercontent.com/56133248/175571046-ed53347e-a3ae-4550-a032-8a371ea34ba2.png" alt="python" style="width:75px;"/>
+ <img src="https://user-images.githubusercontent.com/56133248/175566495-35ad6f35-7bcd-457a-a2c0-2bfa50684cb3.png" alt="html" style="width:75px;"/>
+ <img src="https://user-images.githubusercontent.com/56133248/175566195-f5bd71d2-500d-4c81-9a50-123ce4a12aff.png" alt="css" style="width:75px;"/>
+ <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
+ <img src="https://user-images.githubusercontent.com/56133248/175565033-08431c78-cf64-45f8-807e-c8e1db2a94d5.png" alt="bootstrap" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175570946-98392ccf-027c-4bc6-8d9a-8d8d1f95a2d1.png" alt="c" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175570879-e7bf30cc-b6cd-4b90-8f27-aa58e7da956e.png" alt="java" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175566711-a8b7b23f-34ab-4205-ba20-44d0eebd8753.png" alt="dart" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175565798-a2e2eee0-17a3-43e5-9594-09519fb44a01.png" alt="flutter" style="width:75px;"/> 
  <img src="https://user-images.githubusercontent.com/56133248/175571023-aba7e2fc-234b-4ebd-8baf-47b33eb150de.png" alt="ruby" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175566495-35ad6f35-7bcd-457a-a2c0-2bfa50684cb3.png" alt="html" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175566195-f5bd71d2-500d-4c81-9a50-123ce4a12aff.png" alt="css" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175565033-08431c78-cf64-45f8-807e-c8e1db2a94d5.png" alt="bootstrap" style="width:75px;"/>
+
 
 </p>
   
