@@ -21,11 +21,12 @@
  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" style="width:75px;"/>
  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175565033-08431c78-cf64-45f8-807e-c8e1db2a94d5.png" alt="bootstrap" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
- <img src="https://github.com/Pilestin/Pilestin/assets/56133248/7960b525-de19-4021-b842-3d80c00e5657" alt="meteor" style="width:75px;"/>
+
 </p>
 
 <p align = "justify" >
+ <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
+ <img src="https://github.com/Pilestin/Pilestin/assets/56133248/7960b525-de19-4021-b842-3d80c00e5657" alt="meteor" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175562420-2efe5de0-b16b-41a8-9de4-a27d00543a9c.png" alt="vscode" style="width:75px;"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175566226-b312f935-624c-44d6-bc65-4894da2c21ea.png" alt="git" style="width:75px;"/>
