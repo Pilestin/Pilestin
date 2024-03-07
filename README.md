@@ -23,21 +23,17 @@
  <img src="https://user-images.githubusercontent.com/56133248/175565033-08431c78-cf64-45f8-807e-c8e1db2a94d5.png" alt="bootstrap" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
  <img src="https://github.com/Pilestin/Pilestin/assets/56133248/7960b525-de19-4021-b842-3d80c00e5657" alt="meteor" style="width:75px;"/>
- 
 </p>
 
-  
 <p align = "justify" >
  <img src="https://user-images.githubusercontent.com/56133248/175562420-2efe5de0-b16b-41a8-9de4-a27d00543a9c.png" alt="vscode" style="width:75px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" style="width:75px;"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175566226-b312f935-624c-44d6-bc65-4894da2c21ea.png" alt="git" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175564784-e2b4cd8c-950b-454f-942c-2d9a9ea2e2c2.png" alt="github" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/195908804-371676a3-103c-4061-a0d0-9eb0538d0159.svg" alt="mysql" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175563012-3668a7aa-7ed8-43fe-82b7-5fee474e957d.png" alt="mongodb" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/195909495-14c8c97d-dd12-4150-82f1-451d544d1741.png" alt="selenium" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175570879-e7bf30cc-b6cd-4b90-8f27-aa58e7da956e.png" alt="java" style="width:75px;"/>
-
-     
  </p>
 
 <!-- 
