@@ -2,7 +2,7 @@
 
 ◽️ 👀 I’m interested in ***Machine Learning*** , ***Intelligent Systems*** and ***Web Technologies***.
 
-◽️ 🌱 I'm currently focusing on Deep Learning and Algorithms, 
+◽️ 🌱 I'm currently focusing on Metaheuristic Algorithms, 
      
 ◽️ 👽 If you want to read my projects : https://yasin-unal.super.site/
 
