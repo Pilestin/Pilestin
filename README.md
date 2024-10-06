@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Yasin Ünal                                                                           
 
+![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
+
 ◽️ 👀 I’m interested in ***Machine Learning*** , ***Intelligent Systems*** and ***Web Technologies***.
 
-◽️ 🌱 I'm currently focusing on Metaheuristic Algorithms, 
+◽️ 🌱 I'm currently focusing on Metaheuristic Algorithms, TSP/EVRP and Web Dev 
      
 ◽️ 👽 If you want to read my projects : https://yasin-unal.super.site/
 
@@ -36,6 +38,14 @@
  <img src="https://user-images.githubusercontent.com/56133248/195909495-14c8c97d-dd12-4150-82f1-451d544d1741.png" alt="selenium" style="width:75px;"/>
  <img src="https://user-images.githubusercontent.com/56133248/175570879-e7bf30cc-b6cd-4b90-8f27-aa58e7da956e.png" alt="java" style="width:75px;"/>
  </p>
+
+<div align = "center" >
+     
+![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
+
+ </div>
+
+
 
 <!-- 
 
