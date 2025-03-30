@@ -15,10 +15,10 @@
 <p align = "justify" >
  <img src="https://user-images.githubusercontent.com/56133248/175571046-ed53347e-a3ae-4550-a032-8a371ea34ba2.png" alt="python" style="width:75px;"/>
  <img src="https://github.com/Pilestin/Pilestin/assets/56133248/1598bf2a-d718-4294-8460-81bcb7846aa4" alt="streamlit" style="width:75px;"/>
- <img src="https://numpy.org/images/logo.svg" alt="numpy" style="width:75px;"/>
- <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="pandas" style="width:75px;"/>
- <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" style="width:75px;"/>
- <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" style="width:75px;"/>
+ <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="numpy" style="width:65px;"/>
+ <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="pandas" style="width:85px;"/>
+ <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" style="width:85px;"/>
+ <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" style="width:85px;"/>
  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" style="width:75px;"/>
  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" style="width:75px;"/>
  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" style="width:75px;"/>
