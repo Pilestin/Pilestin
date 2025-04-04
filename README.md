@@ -2,48 +2,59 @@
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
-◽️ 👀 I’m interested in ***Machine Learning*** , ***Intelligent Systems*** and ***Web Technologies***.
-
-◽️ 🌱 I'm currently focusing on Metaheuristic Algorithms, TSP/EVRP and Web Dev 
-     
-◽️ 👽 If you want to read my projects : https://yasin-unal.super.site/
+- 👀 I’m passionate about **Machine Learning**, **Intelligent Systems**, and **Web Technologies**.
+- 🌱 Currently, I’m working on **Metaheuristic Algorithms**, **Vehicle Routing Problems/Dynamic Routing**, and **Web Development Projects**.
+- 🚀 I’m also building cloud-based systems for optimization and fleet management, using modern technologies like **Streamlit**, **React**, **Docker**, and **OpenStreetMap**.
+- 📄 You can explore my portfolio & projects here: [yasin-unal.super.site](https://yasin-unal.super.site/)
 
 <!-- Sayaç :  ![](https://komarev.com/ghpvc/?username=Pilestin) -->
-
-## Technologies
-
-<p align = "justify" >
- <img src="https://user-images.githubusercontent.com/56133248/175571046-ed53347e-a3ae-4550-a032-8a371ea34ba2.png" alt="python" style="width:75px;"/>
- <img src="https://github.com/Pilestin/Pilestin/assets/56133248/1598bf2a-d718-4294-8460-81bcb7846aa4" alt="streamlit" style="width:75px;"/>
- <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="numpy" style="width:65px;"/>
- <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="pandas" style="width:85px;"/>
- <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" style="width:85px;"/>
- <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" style="width:85px;"/>
- <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" style="width:75px;"/>
- <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" style="width:75px;"/>
- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175565033-08431c78-cf64-45f8-807e-c8e1db2a94d5.png" alt="bootstrap" style="width:75px;"/>
-
-</p>
-
-<p align = "justify" >
- <img src="https://user-images.githubusercontent.com/56133248/175568310-6bb4d489-6b7c-432a-93f3-69ad581b2ff0.png" alt="js" style="width:75px;"/>
- <img src="https://github.com/Pilestin/Pilestin/assets/56133248/7960b525-de19-4021-b842-3d80c00e5657" alt="meteor" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175562420-2efe5de0-b16b-41a8-9de4-a27d00543a9c.png" alt="vscode" style="width:75px;"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175566226-b312f935-624c-44d6-bc65-4894da2c21ea.png" alt="git" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175564784-e2b4cd8c-950b-454f-942c-2d9a9ea2e2c2.png" alt="github" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/195908804-371676a3-103c-4061-a0d0-9eb0538d0159.svg" alt="mysql" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175563012-3668a7aa-7ed8-43fe-82b7-5fee474e957d.png" alt="mongodb" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/195909495-14c8c97d-dd12-4150-82f1-451d544d1741.png" alt="selenium" style="width:75px;"/>
- <img src="https://user-images.githubusercontent.com/56133248/175570879-e7bf30cc-b6cd-4b90-8f27-aa58e7da956e.png" alt="java" style="width:75px;"/>
- </p>
 
 <div align = "center" >
      
 ![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
 
  </div>
+
+## 🧠 Technologies & Tools I Use
+
+ 💻 Programming & Libraries
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="numpy" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="35"/>
+  <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="90"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"/>
+</p>
+
+🌐 Web & Frameworks
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50"/>
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="70"/>
+    <img src="https://release-3-0-3.docs.meteor.com/meteor-blue.png" alt="meteor" width="60"/>
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50"/>
+    <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="50"/>
+
+</p>
+
+🔧 Dev Tools & DB
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="70"/>
+  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="mongodb" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="50"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="50"/>
+</p>
+
 
 
 
