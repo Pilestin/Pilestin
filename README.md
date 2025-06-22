@@ -7,15 +7,14 @@
 - 🚀 I’m also building cloud-based systems for optimization and fleet management, using modern technologies like **Streamlit**, **React**, **Docker**, and **OpenStreetMap**.
 - 📄 You can explore my portfolio & projects here: [yasin-unal.super.site](https://yasin-unal.super.site/)
 
-<!-- Sayaç :  ![](https://komarev.com/ghpvc/?username=Pilestin) -->
+## Publications
 
-<div align = "center" >
-     
-![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
+- 📘 [**Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction**](https://www.mdpi.com/2076-3417/15/9/4703) 
 
- </div>
 
-## 🧠 Technologies & Tools I Use
+
+
+## Technologies & Tools I Use
 
  💻 Programming & Libraries
 
@@ -54,6 +53,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="50"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="50"/>
 </p>
+
+
+<!-- Sayaç :  ![](https://komarev.com/ghpvc/?username=Pilestin) -->
+
+<div align = "center" >
+     
+![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
+
+ </div>
 
 
 
