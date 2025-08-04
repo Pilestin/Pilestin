@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="numpy" width="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="35"/>
   <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="90"/>
