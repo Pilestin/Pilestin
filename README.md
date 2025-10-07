@@ -1,17 +1,18 @@
-# 👋 Hi, I’m Yasin Ünal                                                                           
+# I HATE VEHICLE ROUTING PROBLEM                                                             
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
+### 
+
 - 👀 I’m passionate about **Machine Learning**, **Intelligent Systems**, and **Web Technologies**.
-- 🌱 Currently, I’m working on **Metaheuristic Algorithms**, **Vehicle Routing Problems/Dynamic Routing**, and **Web Development Projects**.
+- 🌱 Currently, I’m working on **Vehicle Routing Problems**, and **Web Development Projects**.
 - 🚀 I’m also building cloud-based systems for optimization and fleet management, using modern technologies like **Streamlit**, **React**, **Docker**, and **OpenStreetMap**.
 - 📄 You can explore my portfolio & projects here: [yasin-unal.super.site](https://yasin-unal.super.site/)
 
 ## Publications
 
-- 📘 [**Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction**](https://www.mdpi.com/2076-3417/15/9/4703) 
-
-
+- [**Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction**](https://www.mdpi.com/2076-3417/15/9/4703)
+- [**Adaptive Large Neighborhood Search Approach for Electric Vehicle Routing Problem**](https://opeva.eu/wp-content/uploads/2025/01/TOK2024_Adaptive-Large-Neighborhood-Search-Approach-for-Electric-Vehicle-Routing.pdf) 
 
 
 ## Technologies & Tools I Use
