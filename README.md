@@ -36,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50"/>
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="70"/>
-    <img src="https://release-3-0-3.docs.meteor.com/meteor-blue.png" alt="meteor" width="60"/>
     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50"/>
     <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="50"/>
