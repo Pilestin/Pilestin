@@ -11,6 +11,7 @@
 
 ## Publications
 
+- *Coming Soon -> Real Time Routing with Vehicle Failure and Traffic Awareness in Last-Mile Delivery*
 - [**Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction**](https://www.mdpi.com/2076-3417/15/9/4703)
 - [**Adaptive Large Neighborhood Search Approach for Electric Vehicle Routing Problem**](https://opeva.eu/wp-content/uploads/2025/01/TOK2024_Adaptive-Large-Neighborhood-Search-Approach-for-Electric-Vehicle-Routing.pdf) 
 
