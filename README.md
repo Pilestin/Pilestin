@@ -1,4 +1,4 @@
-# I HATE THE VEHICLE ROUTING PROBLEM                                                             
+# I LOVE THE VEHICLE ROUTING PROBLEM                                                             
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
