@@ -1,5 +1,5 @@
 # I LOVE THE VEHICLE ROUTING PROBLEM                                                             
-**Machine Learning • EV Routing • Optimization • Full-Stack Development**
+**Machine Learning • Electricle Vehicle Routing • Optimization • Full-Stack Development**
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
