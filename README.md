@@ -4,13 +4,31 @@
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
 
+<div style="display:flex; gap:20px;">
+
+<div style="flex:1">
+  
 - 👀 I’m passionate about **Machine Learning**, **Intelligent Systems**, and **Web Technologies**.
 - 🌱 Currently, I’m working on **Vehicle Routing Problems**, and **Web Development Projects**.
-- 🚀 I’m also building cloud-based systems for optimization and fleet management, using modern technologies like **Streamlit**, **React**, **Docker**, and **OpenStreetMap**. 
+- 🚀 I’m also building cloud-based systems for optimization and fleet management, using modern technologies like **Streamlit**, **React**, **Docker**, and **OpenStreetMap**.
+
+</div>
+
+<div style="flex:1;">
+  
+<div align = "center" >
+     
+![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
+
+ </div>
+
+
+</div>
+
+</div>
 
 ## 🌍 Portfolio  
 📄 You can explore my portfolio & projects here: **https://yasin-unal.super.site/**
-
 
 ## Publications
 - *Coming Soon -> Real Time Routing with Electric Vehicle Fleets in Urban Logistics*
@@ -74,8 +92,3 @@
 </p>
 
 
-<div align = "center" >
-     
-![Pilestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical)
-
- </div>
