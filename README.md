@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
-I'm passionate about solving complex **Vehicle Routing Problems** using cutting-edge optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
+I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
 
 ## 🔬 Research Interests
 - Vehicle Routing Problems (VRP, EVRP, CEVRPTW, Dynamic VRP)
