@@ -3,26 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
-I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
-
-## 🔬 Research Interests
-- Vehicle Routing Problems (VRP, EVRP, CEVRPTW, Dynamic VRP)
-- Metaheuristic Optimization (ALNS, LNS, Heuristics)
-- Machine Learning & Deep Learning
-- Fleet Management Systems
-- Routing Markup Language (RML), XML/XSD Design
-- Real-Time Logistics & Simulation (SUMO, Event-Driven Routing)
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilestin&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilestin&theme=radical" alt="GitHub Streak"/>
-</div>
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -45,6 +25,27 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
+
+## 🔬 Research Interests
+- Vehicle Routing Problems (VRP, EVRP, CEVRPTW, Dynamic VRP)
+- Metaheuristic Optimization (ALNS, LNS, Heuristics)
+- Machine Learning & Deep Learning
+- Fleet Management Systems
+- Routing Markup Language (RML), XML/XSD Design
+- Real-Time Logistics & Simulation (SUMO, Event-Driven Routing)
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilestin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilestin&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilestin&theme=radical" alt="GitHub Streak"/>
+</div>
+
 
 
 ## 🌍 Portfolio  
