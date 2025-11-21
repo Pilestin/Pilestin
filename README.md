@@ -72,6 +72,11 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 
 ## 🌟 Featured Projects
 
+### 🔬 [Routing Lab with Streamlit](https://github.com/Pilestin/routing-streamlit-labs/tree/master)
+A collection of interactive Streamlit applications for routing, traffic analysis, EVRP visualization, and geo-analytics. Includes tools for traffic flow exploration, map-based routing, dynamic request simulations, and more.
+
+**Tech Stack**: `Routing` `Streamlit` `Visualizing` `Monitoring` `Map`
+
 ### 🚗 [Electric Vehicle Routing Engine](https://github.com/Pilestin)
 Advanced routing optimization system using Adaptive Large Neighborhood Search (ALNS) for electric vehicle fleets with charging station integration.
 
@@ -81,11 +86,6 @@ Advanced routing optimization system using Adaptive Large Neighborhood Search (A
 Comprehensive toolkit for validating, converting, and visualizing routing data in RML format.
 
 **Tech Stack**: `Python` `XML/XSD` `React` `D3.js`
-
-### 🔬 [Routing Lab with Streamlit](https://github.com/Pilestin/routing-streamlit-labs/tree/master)
-A collection of interactive Streamlit applications for routing, traffic analysis, EVRP visualization, and geo-analytics. Includes tools for traffic flow exploration, map-based routing, dynamic request simulations, and more.
-
-**Tech Stack**: `Routing` `Streamlit` `Visualizing` `Monitoring` `Map`
 
 ---
 
