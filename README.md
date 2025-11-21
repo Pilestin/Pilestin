@@ -82,10 +82,10 @@ Comprehensive toolkit for validating, converting, and visualizing routing data i
 
 **Tech Stack**: `Python` `XML/XSD` `React` `D3.js`
 
-### 🚚 [Live Delivery Simulation Dashboard](https://github.com/Pilestin)
-Real-time fleet tracking and simulation system integrating SUMO traffic simulator with interactive web dashboard.
+### 🔬 [Routing Lab with Streamlit](https://github.com/Pilestin/routing-streamlit-labs/tree/master)
+A collection of interactive Streamlit applications for routing, traffic analysis, EVRP visualization, and geo-analytics. Includes tools for traffic flow exploration, map-based routing, dynamic request simulations, and more.
 
-**Tech Stack**: `SUMO` `Streamlit` `WebSocket` `MongoDB`
+**Tech Stack**: `Routing` `Streamlit` `Visualizing` `Monitoring` `Map`
 
 ---
 
