@@ -28,7 +28,7 @@
 
 I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
 
-## 🔬 Research Interests
+## Research Interests
 - Vehicle Routing Problems (VRP, EVRP, CEVRPTW, Dynamic VRP)
 - Metaheuristic Optimization (ALNS, LNS, Heuristics)
 - Machine Learning & Deep Learning
@@ -46,10 +46,10 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 </div>
 
 
-## 🌍 Portfolio  
+##  Portfolio  
 📄 You can explore my portfolio & projects here: **https://yasin-unal.super.site/**
 
-## 📝 Publications & Research
+##  Publications & Research
 
 - 🚀 *Coming Soon* → **Real-Time Routing with Electric Vehicle Fleets in Urban Logistics**
 - 🚀 * (Accepted) Coming Soon* → **Real-Time Routing with Vehicle Failure and Traffic Awareness in Last-Mile Delivery**
@@ -59,7 +59,7 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 
 
 
-## 🛠️ What I'm Working On
+##  What I'm Working On
 - ⚡ **Electric Vehicle Routing Engine** (ALNS + real-time event handling)
 - 🚚 **SUMO → Streamlit Live Delivery Simulation**
 - 🗺️ **Routing Markup Language (RML) Tools** (validator, converter, visualizer)
@@ -68,31 +68,31 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 - 🌐 **Personal Portfolio Website**
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🔬 [Routing Lab with Streamlit](https://github.com/Pilestin/routing-streamlit-labs/tree/master)
+###  [Routing Lab with Streamlit](https://github.com/Pilestin/routing-streamlit-labs/tree/master)
 A collection of interactive Streamlit applications for routing, traffic analysis, EVRP visualization, and geo-analytics. Includes tools for traffic flow exploration, map-based routing, dynamic request simulations, and more.
 
 **Tech Stack**: `Routing` `Streamlit` `Visualizing` `Monitoring` `Map`
 
-### 🚗 [Electric Vehicle Routing Engine](https://github.com/Pilestin)
+###  [Electric Vehicle Routing Engine](https://github.com/Pilestin)
 Advanced routing optimization system using Adaptive Large Neighborhood Search (ALNS) for electric vehicle fleets with charging station integration.
 
 **Tech Stack**: `Python` `ALNS` `OpenStreetMap` `Streamlit`
 
-### 🗺️ [Routing Markup Language (RML) Tools](https://github.com/Pilestin)
+###  [Routing Markup Language (RML) Tools](https://github.com/Pilestin)
 Comprehensive toolkit for validating, converting, and visualizing routing data in RML format.
 
 **Tech Stack**: `Python` `XML/XSD` `React` `D3.js`
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
-- 💼 LinkedIn: [Yasin Ünal](https://www.linkedin.com/in/yasin-unall/)
-- 📧 Email: [yasin0.unal@gmail.com](mailto:yasin0.unal@gmail.com)
-- 📚 ResearchGate: [Yasin Unal](https://www.researchgate.net/profile/Yasin-Uenal-5)
-- 🎥 YouTube: [Yasin Unal](https://www.youtube.com/@yasin_unal)
+-  LinkedIn: [Yasin Ünal](https://www.linkedin.com/in/yasin-unall/)
+-  Email: [yasin0.unal@gmail.com](mailto:yasin0.unal@gmail.com)
+-  ResearchGate: [Yasin Unal](https://www.researchgate.net/profile/Yasin-Uenal-5)
+-  YouTube: [Yasin Unal](https://www.youtube.com/@yasin_unal)
 
 
 ⭐️ From [Pilestin](https://github.com/Pilestin)
