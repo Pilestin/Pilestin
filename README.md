@@ -52,7 +52,7 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 ##  Publications & Research
 
 - 🚀 *Coming Soon* → **Real-Time Routing with Electric Vehicle Fleets in Urban Logistics**
-- 🚀 [**Real-Time Routing with Vehicle Failure and Traffic Awareness in Last-Mile Delivery**](https://pisrt.org/psr-press/journals/easl/05-vol-8-2025-issue-4/real-time-routing-with-vehicle-failure-and-traffic-awareness-in-last-mile-delivery/) - *Ünal, Y., Polat, A. A., Sarıçiçek, İ., Bozkurt Keser, S., Akalın, K. B., & Yazıcı, A. (2025), Engineering and Applied Science Letters (EASL), 2025* 
+- 📄 [**Real-Time Routing with Vehicle Failure and Traffic Awareness in Last-Mile Delivery**](https://pisrt.org/psr-press/journals/easl/05-vol-8-2025-issue-4/real-time-routing-with-vehicle-failure-and-traffic-awareness-in-last-mile-delivery/) - *Ünal, Y., Polat, A. A., Sarıçiçek, İ., Bozkurt Keser, S., Akalın, K. B., & Yazıcı, A. (2025), Engineering and Applied Science Letters (EASL), 2025* 
 - 📄 [**Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction**](https://www.mdpi.com/2076-3417/15/9/4703) - *Ünal, Y., Sarıçiçek, İ., Bozkurt Keser, S., & Yazıcı, A. (2025), Applied Sciences, 2025*
 - 📄 [**Adaptive Large Neighborhood Search Approach for Electric Vehicle Routing Problem**  Ünal, Y., Sarıçiçek, İ., Bozkurt Keser, S., & Yazıcı, A. (2024).](https://opeva.eu/wp-content/uploads/2025/01/TOK2024_Adaptive-Large-Neighborhood-Search-Approach-for-Electric-Vehicle-Routing.pdf) - *Ünal, Y., Sarıçiçek, İ., Bozkurt Keser, S., & Yazıcı, A. (2025), TOK Conference, 2024*
 
