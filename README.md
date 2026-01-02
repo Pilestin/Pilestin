@@ -60,12 +60,11 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 
 
 ##  What I'm Working On
-- ⚡ **Electric Vehicle Routing Engine** (ALNS + real-time event handling)
+- ⚡ **Electric Vehicle Routing Engine / Cloud** (ALNS + real-time event handling)
 - 🚚 **SUMO → Streamlit Live Delivery Simulation**
 - 🗺️ **Routing Markup Language (RML) Tools** (validator, converter, visualizer)
 - 🧩 **Enterprise Fleet Management System** (Admin / Driver / Customer apps)
 - 🔬 **ML pipelines for anomaly detection**
-- 🌐 **Personal Portfolio Website**
 
 
 ##  Featured Projects
