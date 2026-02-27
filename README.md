@@ -1,5 +1,5 @@
 #                                                            
-**Machine Learning • Electric Vehicle Routing • Optimization • Full-Stack Development**
+** Optimization • Electric Vehicle Routing • Full-Stack Development**
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
