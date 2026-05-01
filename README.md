@@ -1,5 +1,5 @@
                                                           
-**Optimization • Electric Vehicle Routing • Full-Stack Development**
+**Optimization • Vehicle Routing • Full-Stack Development**
 
 ![](https://komarev.com/ghpvc/?username=Pilestin&color=blueviolet)
 
@@ -26,14 +26,13 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization techniques and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
+I'm passionate about solving complex **Vehicle Routing Problems** using metaheuristic optimization and machine learning. My work focuses on building intelligent systems for electric vehicle fleet management, real-time logistics, and urban delivery optimization.
 
 ## Research Interests
-- Vehicle Routing Problems (VRP, EVRP, CEVRPTW, Dynamic VRP)
-- Metaheuristic Optimization (ALNS, LNS, Heuristics)
+- Vehicle Routing Problems
+- Metaheuristic Optimization
 - Machine Learning & Deep Learning
 - Fleet Management Systems
-- Routing Markup Language (RML), XML/XSD Design
 - Real-Time Logistics & Simulation (SUMO, Event-Driven Routing)
 
 <div align="center">
@@ -57,14 +56,8 @@ I'm passionate about solving complex **Vehicle Routing Problems** using metaheur
 - 📄 [**Adaptive Large Neighborhood Search Approach for Electric Vehicle Routing Problem**  Ünal, Y., Sarıçiçek, İ., Bozkurt Keser, S., & Yazıcı, A. (2024).](https://opeva.eu/wp-content/uploads/2025/01/TOK2024_Adaptive-Large-Neighborhood-Search-Approach-for-Electric-Vehicle-Routing.pdf) - *Ünal, Y., Sarıçiçek, İ., Bozkurt Keser, S., & Yazıcı, A. (2025), TOK Conference, 2024*
 
 
-
-
 ##  What I'm Working On
-- ⚡ **Electric Vehicle Routing Engine / Cloud** (ALNS + real-time event handling)
-- 🚚 **SUMO → Streamlit Live Delivery Simulation**
-- 🗺️ **Routing Markup Language (RML) Tools** (validator, converter, visualizer)
-- 🧩 **Enterprise Fleet Management System** (Admin / Driver / Customer apps)
-- 🔬 **ML pipelines for anomaly detection**
+- soon . . . 
 
 
 ##  Featured Projects
@@ -75,7 +68,7 @@ A collection of interactive Streamlit applications for routing, traffic analysis
 **Tech Stack**: `Routing` `Streamlit` `Visualizing` `Monitoring` `Map`
 
 ###  [Electric Vehicle Routing Engine](https://github.com/Pilestin)
-Advanced routing optimization system using Adaptive Large Neighborhood Search (ALNS) for electric vehicle fleets with charging station integration.
+soon . . . Advanced routing optimization system using Adaptive Large Neighborhood Search (ALNS) for electric vehicle fleets with charging station integration.
 
 **Tech Stack**: `Python` `ALNS` `OpenStreetMap` `Streamlit`
 
