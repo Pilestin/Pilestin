@@ -84,5 +84,3 @@ Comprehensive toolkit for validating, converting, and visualizing routing data i
 -  ResearchGate: [Yasin Unal](https://www.researchgate.net/profile/Yasin-Uenal-5)
 -  YouTube: [Yasin Unal](https://www.youtube.com/@yasin_unal)
 
-
-⭐️ From [Pilestin](https://github.com/Pilestin)
